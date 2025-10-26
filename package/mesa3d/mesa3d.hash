@@ -1,0 +1,7 @@
+# From https://lists.freedesktop.org/archives/mesa-announce/2025-October/000823.html
+sha256  bb6243e7a6f525febfa1e6ab50827ca4d4bfdad73812377b0ca9b6c50998b03e  mesa-25.2.5.tar.xz
+sha512  29e61b5ecb467a706e3279c0e79ddd8d55109c08f7856d35c4042f518a70622fb19cdd208a82317654e0396835cb3117b756a96d9a0693bfa33730a50bbbd1d0  mesa-25.2.5.tar.xz
+# License
+sha256  0d1a0472ecc81830e75c20d59b0ea02841e3db21255e0ebad97ab682c54d6615  docs/license.rst
+sha256  323c587d0ccf10e376f8bf9a7f31fb4ca6078105194b42e0b1e0ee2bc9bde71f  licenses/MIT
+sha256  686bf035a1fd22076416fd3b90370ac67771e884bf57f55693d51f8ce7c710a7  licenses/SGI-B-2.0

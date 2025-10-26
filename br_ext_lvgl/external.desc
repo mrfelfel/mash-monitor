@@ -1,0 +1,3 @@
+name: lvgl_ext
+desc: External tree containing LVGL package for Buildroot
+

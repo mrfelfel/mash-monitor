@@ -1,0 +1,6 @@
+config BR2_PACKAGE_LVGL
+    bool "LVGL (Light and Versatile Graphics Library)"
+    help
+      LVGL is an embedded graphics library for microcontrollers and small Linux systems.
+      https://lvgl.io
+

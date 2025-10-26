@@ -1,0 +1,10 @@
+
+
+menu "External LVGL support"
+
+    menu "Graphic libraries"
+        source "br_ext_lvgl/package/lvgl/Config.in"
+    endmenu
+
+endmenu
+
